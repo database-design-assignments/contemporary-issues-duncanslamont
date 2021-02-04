@@ -5,7 +5,7 @@ https://www.nytimes.com/2020/11/18/technology/government-surveillance-by-data.ht
 
 This New York Times article concerns a discovery that the United States Military purchased commercial data (so, not illegally) which depicted the movement of Americans. I think this is less of an issue with the military as it is with these companies that are taking our data, usually without our knowledge. 
 <p>&nbsp;</p>
-For example, in the article they mention that someone used an app “to pray,” and their data was later found on a military database. Also, who the hell is finding information on the military database? Can our military not prevent people from accessing their database? Many flaws in many systems here..
+For example, in the article they mention that someone used an app “to pray,” and their data was later found on a military database. Also, who the hell is finding information on the military database? Can our military not prevent people from accessing their database? Many flaws in many systems here.
 
 ## Article 2
 https://www.nytimes.com/2020/08/21/us/politics/military-surveillance-planes-protesters-pentagon.html
